@@ -44,5 +44,8 @@
     <ClCompile Include="Ex1Part2Test_local.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ex1Part1Test_local.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
