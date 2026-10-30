@@ -340,7 +340,7 @@ bool test3()
 
 int main(int argc, char* argv[])
 {
-	int result;
+	int result = false;
 	// check num of arguments
 	if (argc < 2 || argc > 3)
 	{
