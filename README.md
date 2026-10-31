@@ -1,3 +1,6 @@
+
+![alt text](https://github.com/vladzprogramming-prog/ex0/blob/main/MagshimimLogo.png)
+
 # Ex1 - Basic Data Structures
 
 Link to ex1 google drive folder: <a href="https://drive.google.com/drive/u/0/folders/1s6A1ze87YOI2lQ0z3du64kWb1tT5ka8E/" target="_blank">Ex1 Google Drive</a>
