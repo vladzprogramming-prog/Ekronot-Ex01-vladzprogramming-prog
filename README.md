@@ -1,12 +1,12 @@
-
-![alt text](https://github.com/vladzprogramming-prog/ex0/blob/main/MagshimimLogo.png)
-
 # Ex1 - Basic Data Structures
 
 Link to ex1 google drive folder: <a href="https://drive.google.com/drive/u/0/folders/1s6A1ze87YOI2lQ0z3du64kWb1tT5ka8E/" target="_blank">Ex1 Google Drive</a>
 
 The first 'Advanced Programming' course exercise.<br>
 In this exercise we implement basic data strucures such as stack, queue and list.
+
+![alt text](https://github.com/vladzprogramming-prog/ex0/blob/main/MagshimimLogo.png)
+
 
 ### Part1 - Array based queue 
 Provided base file Queue.h
